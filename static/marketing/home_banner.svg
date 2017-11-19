@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="1140px" viewBox="0 0 1440 1140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Landing Site-Loading</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="-4.4408921e-14%" id="linearGradient-1">
+            <stop stop-color="#F8BF66" offset="0%"></stop>
+            <stop stop-color="#F95C81" offset="100%"></stop>
+        </linearGradient>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="77.3900567%" gradientTransform="translate(0.500000,0.500000),scale(0.998054,1.000000),rotate(118.215178),scale(1.000000,1.371266),translate(-0.500000,-0.500000)" id="radialGradient-2">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </radialGradient>
+        <ellipse id="path-3" cx="1203.49372" cy="388.475407" rx="127.212672" ry="126.965177"></ellipse>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#F387BB" offset="0%"></stop>
+            <stop stop-color="#A26FED" offset="100%"></stop>
+        </linearGradient>
+        <radialGradient cx="50%" cy="0%" fx="50%" fy="0%" r="125.011006%" gradientTransform="translate(0.500000,0.000000),scale(0.998054,1.000000),rotate(126.930199),scale(1.000000,1.371266),translate(-0.500000,-0.000000)" id="radialGradient-5">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </radialGradient>
+        <ellipse id="path-6" cx="284.608572" cy="232.532388" rx="53.0408168" ry="52.9376245"></ellipse>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-7">
+            <stop stop-color="#00E3AE" offset="0%"></stop>
+            <stop stop-color="#9BE15D" offset="100%"></stop>
+        </linearGradient>
+        <radialGradient cx="74.5281237%" cy="45.3514904%" fx="74.5281237%" fy="45.3514904%" r="58.4492204%" gradientTransform="translate(0.745281,0.453515),scale(0.998054,1.000000),rotate(168.628830),scale(1.000000,1.215357),translate(-0.745281,-0.453515)" id="radialGradient-8">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </radialGradient>
+        <ellipse id="path-9" cx="299.414407" cy="812.394046" rx="212.046076" ry="211.633535"></ellipse>
+    </defs>
+    <g id="Ver-4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing-Site-Loading">
+            <g id="Group-4" transform="translate(-57.000000, -46.000000)">
+                <g id="Group-3">
+                    <g id="Group-2" transform="translate(135.000000, 0.000000)">
+                        <circle id="Oval-5-Copy-8" fill="#F95C81" cx="1164.5" cy="662.5" r="2.5"></circle>
+                        <circle id="Oval-5-Copy-6" fill="#9BE15D" cx="701.5" cy="959.5" r="2.5"></circle>
+                        <circle id="Oval-5-Copy-15" fill="#9BE15D" cx="1234.5" cy="759.5" r="2.5"></circle>
+                        <circle id="Oval-5-Copy-9" fill="#00E3AE" cx="1274.5" cy="959.5" r="2.5"></circle>
+                        <circle id="Oval-5-Copy-2" fill="#F95C81" cx="1091.5" cy="872.5" r="2.5"></circle>
+                        <circle id="Oval-5-Copy-12" fill="#9BE15D" cx="156.5" cy="559.5" r="2.5"></circle>
+                        <circle id="Oval-5-Copy-4" fill="#F8BF66" cx="1012.5" cy="820.5" r="2.5"></circle>
+                        <circle id="Oval-5-Copy" fill="#F95C81" cx="1308.5" cy="933.5" r="2.5"></circle>
+                        <circle id="Oval-5-Copy-13" fill="#9BE15D" cx="67.5" cy="350.5" r="2.5"></circle>
+                        <circle id="Oval-5-Copy-14" fill="#9BE15D" cx="287.5" cy="530.5" r="2.5"></circle>
+                        <circle id="Oval-5-Copy-5" fill="#F8BF66" cx="1143.5" cy="820.5" r="2.5"></circle>
+                        <circle id="Oval-5-Copy-10" fill="#F8BF66" cx="1096.5" cy="580.5" r="2.5"></circle>
+                        <circle id="Oval-5-Copy-7" fill="#9BE15D" cx="513.5" cy="877.5" r="2.5"></circle>
+                        <circle id="Oval-5-Copy-11" fill="#00E3AE" cx="1296.5" cy="877.5" r="2.5"></circle>
+                        <circle id="Oval-5" fill="#00E3AE" cx="461.5" cy="712.5" r="2.5"></circle>
+                        <circle id="Oval-5-Copy-5" fill="#00E3AE" cx="423.5" cy="630.5" r="2.5"></circle>
+                        <circle id="Oval-5" fill="#F95C81" cx="451.5" cy="192.5" r="2.5"></circle>
+                        <circle id="Oval-5-Copy-4" fill="#F8BF66" cx="252.5" cy="110.5" r="2.5"></circle>
+                        <circle id="Oval-5-Copy-5" fill="#F8BF66" cx="383.5" cy="110.5" r="2.5"></circle>
+                        <circle id="Oval-5" fill="#00E3AE" cx="291.5" cy="192.5" r="2.5"></circle>
+                        <circle id="Oval-5-Copy-5" fill="#00E3AE" cx="223.5" cy="160.5" r="2.5"></circle>
+                        <circle id="Oval-5" fill="#F95C81" cx="201.5" cy="521.5" r="2.5"></circle>
+                        <circle id="Oval-5-Copy-4" fill="#F25656" cx="2.5" cy="390.5" r="2.5"></circle>
+                        <circle id="Oval-5-Copy-5" fill="#F8BF66" cx="133.5" cy="390.5" r="2.5"></circle>
+                        <circle id="Oval-5" fill="#F25656" cx="91.5" cy="491.5" r="2.5"></circle>
+                        <circle id="Oval-5-Copy-5" fill="#F25656" cx="23.5" cy="459.5" r="2.5"></circle>
+                        <circle id="Oval-5-Copy-17" fill="#9BE15D" cx="1347.5" cy="655.5" r="2.5"></circle>
+                        <circle id="Oval-5-Copy-13" fill="#9BE15D" cx="836.5" cy="639.5" r="2.5"></circle>
+                        <circle id="Oval-5-Copy-18" fill="#F25656" cx="1233.5" cy="535.5" r="2.5"></circle>
+                        <circle id="Oval-5-Copy-5" fill="#F8BF66" cx="1277.5" cy="1006.5" r="2.5"></circle>
+                        <circle id="Oval-5-Copy-19" fill="#F8BF66" cx="1324.5" cy="535.5" r="2.5"></circle>
+                        <circle id="Oval-5" fill="#F25656" cx="679.5" cy="857.5" r="2.5"></circle>
+                        <circle id="Oval-5-Copy-20" fill="#F25656" cx="1272.5" cy="617.5" r="2.5"></circle>
+                        <circle id="Oval-5-Copy-5" fill="#F25656" cx="611.5" cy="825.5" r="2.5"></circle>
+                        <circle id="Oval-5-Copy-9" fill="#F95C81" cx="1294.5" cy="319.5" r="2.5"></circle>
+                        <circle id="Oval-5-Copy-2" fill="#F95C81" cx="1021.5" cy="202.5" r="2.5"></circle>
+                        <circle id="Oval-5-Copy-3" fill="#F95C81" cx="1152.5" cy="222.5" r="2.5"></circle>
+                        <circle id="Oval-5-Copy-11" fill="#F95C81" cx="1226.5" cy="237.5" r="2.5"></circle>
+                        <circle id="Oval-5-Copy-16" fill="#F95C81" cx="1081.5" cy="762.5" r="2.5"></circle>
+                        <circle id="Oval-5-Copy-6" fill="#9BE15D" cx="841.5" cy="1149.5" r="2.5"></circle>
+                        <circle id="Oval-5-Copy-2" fill="#F95C81" cx="1171.5" cy="992.5" r="2.5"></circle>
+                        <circle id="Oval-5-Copy" fill="#F95C81" cx="1272.5" cy="852.5" r="2.5"></circle>
+                        <circle id="Oval-5-Copy-12" fill="#9BE15D" cx="1074.5" cy="1025.5" r="2.5"></circle>
+                        <circle id="Oval-5-Copy-13" fill="#9BE15D" cx="999.5" cy="855.5" r="2.5"></circle>
+                        <circle id="Oval-5-Copy-4" fill="#F25656" cx="874.5" cy="895.5" r="2.5"></circle>
+                        <circle id="Oval-5-Copy-5" fill="#F8BF66" cx="1065.5" cy="895.5" r="2.5"></circle>
+                        <circle id="Oval-5" fill="#F25656" cx="899.5" cy="987.5" r="2.5"></circle>
+                        <circle id="Oval-5-Copy-16" fill="#F95C81" cx="1161.5" cy="902.5" r="2.5"></circle>
+                        <circle id="Oval-5-Copy-4" fill="#F25656" cx="510.5" cy="945.5" r="2.5"></circle>
+                        <circle id="Oval-5-Copy-5" fill="#F8BF66" cx="761.5" cy="945.5" r="2.5"></circle>
+                        <circle id="Oval-5" fill="#F25656" cx="549.5" cy="1027.5" r="2.5"></circle>
+                        <circle id="Oval-5-Copy-4" fill="#F25656" cx="700.5" cy="75.5" r="2.5"></circle>
+                        <circle id="Oval-5" fill="#F25656" cx="739.5" cy="157.5" r="2.5"></circle>
+                    </g>
+                    <g id="Oval-3" transform="translate(1203.493725, 388.475407) rotate(-42.000000) translate(-1203.493725, -388.475407) ">
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-3"></use>
+                        <use fill="url(#radialGradient-2)" xlink:href="#path-3"></use>
+                    </g>
+                    <g id="Oval-3-Copy" transform="translate(284.608572, 232.532388) rotate(-42.000000) translate(-284.608572, -232.532388) ">
+                        <use fill="url(#linearGradient-4)" xlink:href="#path-6"></use>
+                        <use fill="url(#radialGradient-5)" xlink:href="#path-6"></use>
+                    </g>
+                    <g id="Oval-3" transform="translate(299.414407, 812.394046) rotate(-43.000000) translate(-299.414407, -812.394046) ">
+                        <use fill="url(#linearGradient-7)" xlink:href="#path-9"></use>
+                        <use fill="url(#radialGradient-8)" xlink:href="#path-9"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="375px" height="711px" viewBox="0 0 375 711" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 7</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#F387BB" offset="0%"></stop>
+            <stop stop-color="#A26FED" offset="100%"></stop>
+        </linearGradient>
+        <radialGradient cx="50%" cy="0%" fx="50%" fy="0%" r="125.011006%" gradientTransform="translate(0.500000,0.000000),rotate(126.876623),scale(1.000000,1.371266),translate(-0.500000,-0.000000)" id="radialGradient-2">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </radialGradient>
+        <circle id="path-3" cx="105" cy="164" r="37"></circle>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="-4.4408921e-14%" id="linearGradient-4">
+            <stop stop-color="#F8BF66" offset="0%"></stop>
+            <stop stop-color="#F95C81" offset="100%"></stop>
+        </linearGradient>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="77.3900567%" gradientTransform="translate(0.500000,0.500000),rotate(118.168718),scale(1.000000,1.371266),translate(-0.500000,-0.500000)" id="radialGradient-5">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </radialGradient>
+        <circle id="path-6" cx="560.5" cy="331.5" r="44.5"></circle>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-7">
+            <stop stop-color="#00E3AE" offset="0%"></stop>
+            <stop stop-color="#9BE15D" offset="100%"></stop>
+        </linearGradient>
+        <radialGradient cx="74.5281237%" cy="45.3514904%" fx="74.5281237%" fy="45.3514904%" r="58.4492204%" gradientTransform="translate(0.745281,0.453515),rotate(168.607244),scale(1.000000,1.215357),translate(-0.745281,-0.453515)" id="radialGradient-8">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </radialGradient>
+        <circle id="path-9" cx="187" cy="655" r="132"></circle>
+    </defs>
+    <g id="Ver-5" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Responsive-Home" transform="translate(0.000000, -131.000000)">
+            <g id="Group-7" transform="translate(-186.000000, 55.000000)">
+                <g id="Group-3" transform="translate(126.000000, 0.000000)">
+                    <g id="Group-2">
+                        <ellipse id="Oval-5-Copy-12" fill="#9BE15D" cx="110.013704" cy="393.884115" rx="1.75740741" ry="1.75998264"></ellipse>
+                        <ellipse id="Oval-5-Copy-14" fill="#9BE15D" cx="202.101852" cy="373.468316" rx="1.75740741" ry="1.75998264"></ellipse>
+                        <ellipse id="Oval-5-Copy-7" fill="#9BE15D" cx="360.971481" cy="617.753906" rx="1.75740741" ry="1.75998264"></ellipse>
+                        <ellipse id="Oval-5" fill="#00E3AE" cx="324.417407" cy="501.595052" rx="1.75740741" ry="1.75998264"></ellipse>
+                        <ellipse id="Oval-5-Copy-5" fill="#00E3AE" cx="297.704815" cy="443.867622" rx="1.75740741" ry="1.75998264"></ellipse>
+                        <ellipse id="Oval-5" fill="#F95C81" cx="317.387778" cy="135.518663" rx="1.75740741" ry="1.75998264"></ellipse>
+                        <ellipse id="Oval-5-Copy-4" fill="#F8BF66" cx="177.498148" cy="77.7912326" rx="1.75740741" ry="1.75998264"></ellipse>
+                        <ellipse id="Oval-5-Copy-5" fill="#F8BF66" cx="269.586296" cy="77.7912326" rx="1.75740741" ry="1.75998264"></ellipse>
+                        <ellipse id="Oval-5" fill="#00E3AE" cx="204.913704" cy="135.518663" rx="1.75740741" ry="1.75998264"></ellipse>
+                        <ellipse id="Oval-5-Copy-5" fill="#00E3AE" cx="157.112222" cy="112.990885" rx="1.75740741" ry="1.75998264"></ellipse>
+                        <ellipse id="Oval-5" fill="#F95C81" cx="141.647037" cy="367.132378" rx="1.75740741" ry="1.75998264"></ellipse>
+                        <ellipse id="Oval-5-Copy-5" fill="#F8BF66" cx="93.8455556" cy="274.909288" rx="1.75740741" ry="1.75998264"></ellipse>
+                        <ellipse id="Oval-5" fill="#F25656" cx="64.3211111" cy="346.012587" rx="1.75740741" ry="1.75998264"></ellipse>
+                        <ellipse id="Oval-5-Copy-5" fill="#F25656" cx="429.861852" cy="581.146267" rx="1.75740741" ry="1.75998264"></ellipse>
+                        <ellipse id="Oval-5-Copy-4" fill="#F25656" cx="358.862593" cy="665.625434" rx="1.75740741" ry="1.75998264"></ellipse>
+                        <ellipse id="Oval-5" fill="#F25656" cx="386.278148" cy="723.352865" rx="1.75740741" ry="1.75998264"></ellipse>
+                    </g>
+                    <g id="Oval-3-Copy" transform="translate(105.000000, 164.000000) rotate(-42.000000) translate(-105.000000, -164.000000) ">
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-3"></use>
+                        <use fill="url(#radialGradient-2)" xlink:href="#path-3"></use>
+                    </g>
+                </g>
+                <g id="Oval-3" transform="translate(560.500000, 331.500000) rotate(-42.000000) translate(-560.500000, -331.500000) ">
+                    <use fill="url(#linearGradient-4)" xlink:href="#path-6"></use>
+                    <use fill="url(#radialGradient-5)" xlink:href="#path-6"></use>
+                </g>
+                <g id="Oval-3" transform="translate(187.000000, 655.000000) rotate(-43.000000) translate(-187.000000, -655.000000) ">
+                    <use fill="url(#linearGradient-7)" xlink:href="#path-9"></use>
+                    <use fill="url(#radialGradient-8)" xlink:href="#path-9"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
